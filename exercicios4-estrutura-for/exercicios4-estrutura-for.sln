@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30709.132
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exercicios4-estrutura-for", "exercicios4-estrutura-for\exercicios4-estrutura-for.csproj", "{08BD925A-2747-4FE2-8422-2DD4A8619654}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08BD925A-2747-4FE2-8422-2DD4A8619654}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08BD925A-2747-4FE2-8422-2DD4A8619654}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08BD925A-2747-4FE2-8422-2DD4A8619654}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08BD925A-2747-4FE2-8422-2DD4A8619654}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90D9482D-82D7-4592-862E-CD03964A7F35}
+	EndGlobalSection
+EndGlobal
