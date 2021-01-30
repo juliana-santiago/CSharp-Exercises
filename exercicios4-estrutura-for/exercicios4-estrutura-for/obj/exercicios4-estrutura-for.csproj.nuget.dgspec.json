@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Cursos\\Curso C#\\Projetos C#\\exercicios4-estrutura-for\\exercicios4-estrutura-for\\exercicios4-estrutura-for.csproj": {}
+    "C:\\Users\\juliana.santiago\\Desktop\\Projetos C#\\exercicios4-estrutura-for\\exercicios4-estrutura-for\\exercicios4-estrutura-for.csproj": {}
   },
   "projects": {
-    "E:\\Cursos\\Curso C#\\Projetos C#\\exercicios4-estrutura-for\\exercicios4-estrutura-for\\exercicios4-estrutura-for.csproj": {
+    "C:\\Users\\juliana.santiago\\Desktop\\Projetos C#\\exercicios4-estrutura-for\\exercicios4-estrutura-for\\exercicios4-estrutura-for.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Cursos\\Curso C#\\Projetos C#\\exercicios4-estrutura-for\\exercicios4-estrutura-for\\exercicios4-estrutura-for.csproj",
+        "projectUniqueName": "C:\\Users\\juliana.santiago\\Desktop\\Projetos C#\\exercicios4-estrutura-for\\exercicios4-estrutura-for\\exercicios4-estrutura-for.csproj",
         "projectName": "exercicios4-estrutura-for",
-        "projectPath": "E:\\Cursos\\Curso C#\\Projetos C#\\exercicios4-estrutura-for\\exercicios4-estrutura-for\\exercicios4-estrutura-for.csproj",
-        "packagesPath": "C:\\Users\\juju_\\.nuget\\packages\\",
-        "outputPath": "E:\\Cursos\\Curso C#\\Projetos C#\\exercicios4-estrutura-for\\exercicios4-estrutura-for\\obj\\",
+        "projectPath": "C:\\Users\\juliana.santiago\\Desktop\\Projetos C#\\exercicios4-estrutura-for\\exercicios4-estrutura-for\\exercicios4-estrutura-for.csproj",
+        "packagesPath": "C:\\Users\\juliana.santiago\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\juliana.santiago\\Desktop\\Projetos C#\\exercicios4-estrutura-for\\exercicios4-estrutura-for\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\juju_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\juliana.santiago\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

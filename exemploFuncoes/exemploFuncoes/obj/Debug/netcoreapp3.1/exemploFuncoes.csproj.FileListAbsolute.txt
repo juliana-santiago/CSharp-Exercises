@@ -1,0 +1,13 @@
+C:\Users\juliana.santiago\source\repos\exemploFuncoes\exemploFuncoes\bin\Debug\netcoreapp3.1\exemploFuncoes.exe
+C:\Users\juliana.santiago\source\repos\exemploFuncoes\exemploFuncoes\bin\Debug\netcoreapp3.1\exemploFuncoes.deps.json
+C:\Users\juliana.santiago\source\repos\exemploFuncoes\exemploFuncoes\bin\Debug\netcoreapp3.1\exemploFuncoes.runtimeconfig.json
+C:\Users\juliana.santiago\source\repos\exemploFuncoes\exemploFuncoes\bin\Debug\netcoreapp3.1\exemploFuncoes.runtimeconfig.dev.json
+C:\Users\juliana.santiago\source\repos\exemploFuncoes\exemploFuncoes\bin\Debug\netcoreapp3.1\exemploFuncoes.dll
+C:\Users\juliana.santiago\source\repos\exemploFuncoes\exemploFuncoes\bin\Debug\netcoreapp3.1\exemploFuncoes.pdb
+C:\Users\juliana.santiago\source\repos\exemploFuncoes\exemploFuncoes\obj\Debug\netcoreapp3.1\exemploFuncoes.csprojAssemblyReference.cache
+C:\Users\juliana.santiago\source\repos\exemploFuncoes\exemploFuncoes\obj\Debug\netcoreapp3.1\exemploFuncoes.AssemblyInfoInputs.cache
+C:\Users\juliana.santiago\source\repos\exemploFuncoes\exemploFuncoes\obj\Debug\netcoreapp3.1\exemploFuncoes.AssemblyInfo.cs
+C:\Users\juliana.santiago\source\repos\exemploFuncoes\exemploFuncoes\obj\Debug\netcoreapp3.1\exemploFuncoes.csproj.CoreCompileInputs.cache
+C:\Users\juliana.santiago\source\repos\exemploFuncoes\exemploFuncoes\obj\Debug\netcoreapp3.1\exemploFuncoes.dll
+C:\Users\juliana.santiago\source\repos\exemploFuncoes\exemploFuncoes\obj\Debug\netcoreapp3.1\exemploFuncoes.pdb
+C:\Users\juliana.santiago\source\repos\exemploFuncoes\exemploFuncoes\obj\Debug\netcoreapp3.1\exemploFuncoes.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\juliana.santiago\Desktop\Projetos C#\exercicios4-estrutura-for\exercicios4-estrutura-for\bin\Debug\netcoreapp3.1\exercicios4-estrutura-for.exe
+C:\Users\juliana.santiago\Desktop\Projetos C#\exercicios4-estrutura-for\exercicios4-estrutura-for\bin\Debug\netcoreapp3.1\exercicios4-estrutura-for.deps.json
+C:\Users\juliana.santiago\Desktop\Projetos C#\exercicios4-estrutura-for\exercicios4-estrutura-for\bin\Debug\netcoreapp3.1\exercicios4-estrutura-for.runtimeconfig.json
+C:\Users\juliana.santiago\Desktop\Projetos C#\exercicios4-estrutura-for\exercicios4-estrutura-for\bin\Debug\netcoreapp3.1\exercicios4-estrutura-for.runtimeconfig.dev.json
+C:\Users\juliana.santiago\Desktop\Projetos C#\exercicios4-estrutura-for\exercicios4-estrutura-for\bin\Debug\netcoreapp3.1\exercicios4-estrutura-for.dll
+C:\Users\juliana.santiago\Desktop\Projetos C#\exercicios4-estrutura-for\exercicios4-estrutura-for\bin\Debug\netcoreapp3.1\exercicios4-estrutura-for.pdb
+C:\Users\juliana.santiago\Desktop\Projetos C#\exercicios4-estrutura-for\exercicios4-estrutura-for\obj\Debug\netcoreapp3.1\exercicios4-estrutura-for.csprojAssemblyReference.cache
+C:\Users\juliana.santiago\Desktop\Projetos C#\exercicios4-estrutura-for\exercicios4-estrutura-for\obj\Debug\netcoreapp3.1\exercicios4-estrutura-for.AssemblyInfoInputs.cache
+C:\Users\juliana.santiago\Desktop\Projetos C#\exercicios4-estrutura-for\exercicios4-estrutura-for\obj\Debug\netcoreapp3.1\exercicios4-estrutura-for.AssemblyInfo.cs
+C:\Users\juliana.santiago\Desktop\Projetos C#\exercicios4-estrutura-for\exercicios4-estrutura-for\obj\Debug\netcoreapp3.1\exercicios4-estrutura-for.csproj.CoreCompileInputs.cache
+C:\Users\juliana.santiago\Desktop\Projetos C#\exercicios4-estrutura-for\exercicios4-estrutura-for\obj\Debug\netcoreapp3.1\exercicios4-estrutura-for.dll
+C:\Users\juliana.santiago\Desktop\Projetos C#\exercicios4-estrutura-for\exercicios4-estrutura-for\obj\Debug\netcoreapp3.1\exercicios4-estrutura-for.pdb
+C:\Users\juliana.santiago\Desktop\Projetos C#\exercicios4-estrutura-for\exercicios4-estrutura-for\obj\Debug\netcoreapp3.1\exercicios4-estrutura-for.genruntimeconfig.cache

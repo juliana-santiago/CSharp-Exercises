@@ -1,0 +1,13 @@
+C:\Users\juliana.santiago\Desktop\Projetos C#\exercicios3-estrutura-while\exercicios3-estrutura-while\obj\Debug\netcoreapp3.1\exercicios3-estrutura-while.csprojAssemblyReference.cache
+C:\Users\juliana.santiago\Desktop\Projetos C#\exercicios3-estrutura-while\exercicios3-estrutura-while\obj\Debug\netcoreapp3.1\exercicios3-estrutura-while.AssemblyInfoInputs.cache
+C:\Users\juliana.santiago\Desktop\Projetos C#\exercicios3-estrutura-while\exercicios3-estrutura-while\obj\Debug\netcoreapp3.1\exercicios3-estrutura-while.AssemblyInfo.cs
+C:\Users\juliana.santiago\Desktop\Projetos C#\exercicios3-estrutura-while\exercicios3-estrutura-while\obj\Debug\netcoreapp3.1\exercicios3-estrutura-while.csproj.CoreCompileInputs.cache
+C:\Users\juliana.santiago\Desktop\Projetos C#\exercicios3-estrutura-while\exercicios3-estrutura-while\bin\Debug\netcoreapp3.1\exercicios3-estrutura-while.exe
+C:\Users\juliana.santiago\Desktop\Projetos C#\exercicios3-estrutura-while\exercicios3-estrutura-while\bin\Debug\netcoreapp3.1\exercicios3-estrutura-while.deps.json
+C:\Users\juliana.santiago\Desktop\Projetos C#\exercicios3-estrutura-while\exercicios3-estrutura-while\bin\Debug\netcoreapp3.1\exercicios3-estrutura-while.runtimeconfig.json
+C:\Users\juliana.santiago\Desktop\Projetos C#\exercicios3-estrutura-while\exercicios3-estrutura-while\bin\Debug\netcoreapp3.1\exercicios3-estrutura-while.runtimeconfig.dev.json
+C:\Users\juliana.santiago\Desktop\Projetos C#\exercicios3-estrutura-while\exercicios3-estrutura-while\bin\Debug\netcoreapp3.1\exercicios3-estrutura-while.dll
+C:\Users\juliana.santiago\Desktop\Projetos C#\exercicios3-estrutura-while\exercicios3-estrutura-while\bin\Debug\netcoreapp3.1\exercicios3-estrutura-while.pdb
+C:\Users\juliana.santiago\Desktop\Projetos C#\exercicios3-estrutura-while\exercicios3-estrutura-while\obj\Debug\netcoreapp3.1\exercicios3-estrutura-while.dll
+C:\Users\juliana.santiago\Desktop\Projetos C#\exercicios3-estrutura-while\exercicios3-estrutura-while\obj\Debug\netcoreapp3.1\exercicios3-estrutura-while.pdb
+C:\Users\juliana.santiago\Desktop\Projetos C#\exercicios3-estrutura-while\exercicios3-estrutura-while\obj\Debug\netcoreapp3.1\exercicios3-estrutura-while.genruntimeconfig.cache
