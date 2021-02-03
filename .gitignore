@@ -34,4 +34,34 @@ msbuild.err
 msbuild.wrn
 
 # Visual Studio 2015
+exemplo2-funcoes/.vs/
+exemploFuncoes/.vs/
+exercicios1-estrutura-sequencial/.vs/
+exercicios2-estrutura-condicional/.vs/
+exercicios3-estrutura-while/.vs/
+exercicios4-estrutura-for/.vs/
+primeiros-exercicios/.vs/
 .vs/
+
+# Pastas
+exemplo2-funcoes/exemplo2-funcoes/bin
+exemplo2-funcoes/exemplo2-funcoes/obj
+
+exemploFuncoes/exemploFuncoes/bin
+exemploFuncoes/exemploFuncoes/obj
+
+exercicios1-estrutura-sequencial/exercicios1-estrutura-sequencial/bin
+exercicios1-estrutura-sequencial/exercicios1-estrutura-sequencial/obj
+
+exercicios2-estrutura-condicional/exercicios2-estrutura-condicional/bin
+exercicios2-estrutura-condicional/exercicios2-estrutura-condicional/obj
+
+exercicios3-estrutura-while/exercicios3-estrutura-while/bin
+exercicios3-estrutura-while/exercicios3-estrutura-while/obj
+
+exercicios4-estrutura-for/exercicios4-estrutura-for/bin
+exercicios4-estrutura-for/exercicios4-estrutura-for/obj
+
+primeiros-exercicios/primeiros-exercicios/bin
+primeiros-exercicios/primeiros-exercicios/obj
+
