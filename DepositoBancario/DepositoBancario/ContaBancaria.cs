@@ -19,6 +19,15 @@ namespace DepositoBancario
             Saldo = saldo; 
         }
 
+        public void Deposito(double valor)
+        {
+            Saldo += valor;
+        }
+
+        public void Saque(double valor)
+        {
+            Saldo -= valor + 5.00;
+        }
 
         public override string ToString()
         {
