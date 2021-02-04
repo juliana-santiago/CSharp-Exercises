@@ -34,22 +34,44 @@ msbuild.err
 msbuild.wrn
 
 # Visual Studio 2015
+AutoProperties/.vs/
+Construtor/.vs/
+correcao-exercicios-fixacao/.vs/
+Encapsulamento/.vs/
 exemplo2-funcoes/.vs/
 exemploFuncoes/.vs/
+ExercicioFuncaoEstatica/.vs/
 exercicios1-estrutura-sequencial/.vs/
 exercicios2-estrutura-condicional/.vs/
 exercicios3-estrutura-while/.vs/
 exercicios4-estrutura-for/.vs/
+FuncaoEstatica/.vs/
 primeiros-exercicios/.vs/
-correcao-exercicios-fixacao/.vs/
+Properties/.vs/
+
 .vs/
 
 # Pastas
+AutoProperties/AutoProperties/bin
+AutoProperties/AutoProperties/obj
+
+Construtor/Construtor/bin
+Construtor/Construtor/obj
+
+correcao-exercicios-fixacao/correcao-exercicios-fixacao/bin
+correcao-exercicios-fixacao/correcao-exercicios-fixacao/obj
+
+Encapsulamento/Encapsulamento/bin
+Encapsulamento/Encapsulamento/obj
+
 exemplo2-funcoes/exemplo2-funcoes/bin
 exemplo2-funcoes/exemplo2-funcoes/obj
 
 exemploFuncoes/exemploFuncoes/bin
 exemploFuncoes/exemploFuncoes/obj
+
+ExercicioFuncaoEstatica/ExercicioFuncaoEstatica/bin
+ExercicioFuncaoEstatica/ExercicioFuncaoEstatica/obj
 
 exercicios1-estrutura-sequencial/exercicios1-estrutura-sequencial/bin
 exercicios1-estrutura-sequencial/exercicios1-estrutura-sequencial/obj
@@ -63,9 +85,12 @@ exercicios3-estrutura-while/exercicios3-estrutura-while/obj
 exercicios4-estrutura-for/exercicios4-estrutura-for/bin
 exercicios4-estrutura-for/exercicios4-estrutura-for/obj
 
+FuncaoEstatica/FuncaoEstatica/bin
+FuncaoEstatica/FuncaoEstatica/obj
+
 primeiros-exercicios/primeiros-exercicios/bin
 primeiros-exercicios/primeiros-exercicios/obj
 
-correcao-exercicios-fixacao/correcao-exercicios-fixacao/bin
-correcao-exercicios-fixacao/correcao-exercicios-fixacao/obj
+Properties/Properties/bin
+Properties/Properties/obj
 
