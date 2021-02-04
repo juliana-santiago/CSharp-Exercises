@@ -37,6 +37,7 @@ msbuild.wrn
 AutoProperties/.vs/
 Construtor/.vs/
 correcao-exercicios-fixacao/.vs/
+DepositoBancario/.vs/
 Encapsulamento/.vs/
 exemplo2-funcoes/.vs/
 exemploFuncoes/.vs/
@@ -60,6 +61,9 @@ Construtor/Construtor/obj
 
 correcao-exercicios-fixacao/correcao-exercicios-fixacao/bin
 correcao-exercicios-fixacao/correcao-exercicios-fixacao/obj
+
+DepositoBancario/DepositoBancario/bin
+DepositoBancario/DepositoBancario/obj
 
 Encapsulamento/Encapsulamento/bin
 Encapsulamento/Encapsulamento/obj
