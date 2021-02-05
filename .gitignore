@@ -47,8 +47,11 @@ exercicios2-estrutura-condicional/.vs/
 exercicios3-estrutura-while/.vs/
 exercicios4-estrutura-for/.vs/
 FuncaoEstatica/.vs/
+Nullable/.vs/
 primeiros-exercicios/.vs/
 Properties/.vs/
+Struct/.vs/
+Vetores/.vs/
 
 .vs/
 
@@ -92,9 +95,17 @@ exercicios4-estrutura-for/exercicios4-estrutura-for/obj
 FuncaoEstatica/FuncaoEstatica/bin
 FuncaoEstatica/FuncaoEstatica/obj
 
+Nullable/Nullable/bin
+Nullable/Nullable/obj
+
 primeiros-exercicios/primeiros-exercicios/bin
 primeiros-exercicios/primeiros-exercicios/obj
 
 Properties/Properties/bin
 Properties/Properties/obj
 
+Struct/Struct/bin
+Struct/Struct/obj
+
+Vetores/Vetores/bin
+Vetores/Vetores/obj
