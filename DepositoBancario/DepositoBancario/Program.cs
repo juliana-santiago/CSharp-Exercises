@@ -16,7 +16,7 @@ namespace DepositoBancario
             string titular = Console.ReadLine();
             Console.Write("Haverá deposito inicial (s/n)? ");
             char resposta = char.Parse(Console.ReadLine());
-
+            
             //Saldo
             if(resposta == 's' || resposta == 'S')
             {
@@ -37,15 +37,13 @@ namespace DepositoBancario
             Console.Write("\nEntre um valor para Depósito: ");
             double valor = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             conta.Deposito(valor);
-            Console.WriteLine("Dados da Conta Atualizados: ");
-            Console.WriteLine(conta);
-
+            Console.WriteLine("Dados da Conta Atualizados: \n" + conta);
+            
             //Saque
             Console.Write("\nEntre um valor para Saque: ");
             valor = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             conta.Saque(valor);
-            Console.WriteLine("Dados da Conta Atualizados: ");
-            Console.WriteLine(conta);
+            Console.WriteLine("Dados da Conta Atualizados: \n" + conta);
         }
     }
 }
